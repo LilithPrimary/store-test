@@ -71,7 +71,7 @@ const baseConfig = {
       patterns: [
         {
           from: './src/assets',
-          to: './assets',
+          to: './',
         },
       ],
     }),
